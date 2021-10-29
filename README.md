@@ -3,5 +3,5 @@
 https://mock-server-music.herokuapp.com/
 
 ```bash
-GET     /songs
+GET /songs
 ```

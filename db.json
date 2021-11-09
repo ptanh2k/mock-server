@@ -6,7 +6,8 @@
       "artist": "Coldplay",
       "genre": "Pop",
       "duration": 269,
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/9/9b/Yellow_artwork_art.JPG"
+      "artwork": "https://upload.wikimedia.org/wikipedia/en/9/9b/Yellow_artwork_art.JPG",
+      "url": "https://sample-music.netlify.app/death%20bed.mp3"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "artist": "Harry Styles",
       "genre": "Funk, Disco, Pop rock",
       "duration": 207,
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/9/90/Adore_You_-_Harry_Styles.png"
+      "artwork": "https://upload.wikimedia.org/wikipedia/en/9/90/Adore_You_-_Harry_Styles.png",
+      "url": "https://sample-music.netlify.app/Bad%20Liar.mp3"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "artist": "BTS",
       "genre": 207,
       "duration": "Pop",
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/7/76/BTS_-_Life_Goes_On_%28Vinyl%29.png"
+      "artwork": "https://upload.wikimedia.org/wikipedia/en/7/76/BTS_-_Life_Goes_On_%28Vinyl%29.png",
+      "url": "https://sample-music.netlify.app/Faded.mp3"
     },
     {
       "id": 4,

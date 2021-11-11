@@ -31,24 +31,24 @@
       "id": 4,
       "title": "This Town",
       "artist": "Niall Horan",
-      "genre": 232,
-      "duration": "Folk",
+      "genre": "Folk",
+      "duration": 232,
       "artwork": "https://upload.wikimedia.org/wikipedia/en/0/04/Niall_Horan_-_This_Town_single_artwork.png"
     },
     {
       "id": 5,
       "title": "Pillowtalk",
       "artist": "ZAYN",
-      "genre": 203,
-      "duration": "R&B, Electronic",
+      "genre": "R&B, Electronic",
+      "duration": 203,
       "artwork": "https://upload.wikimedia.org/wikipedia/en/7/70/Zayn_Malik_-_Pillowtalk_%28Official_Single_artwork%29.png"
     },
     {
       "id": 6,
       "title": "Love Yourself",
       "artist": "Justin Bieber",
-      "genre": 233,
-      "duration": "Pop",
+      "genre": "Pop",
+      "duration": 233,
       "artwork": "https://upload.wikimedia.org/wikipedia/en/0/0b/JustinBieberLoveYourself.png"
     },
     {

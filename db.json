@@ -22,8 +22,8 @@
       "id": 3,
       "title": "Life Goes On",
       "artist": "BTS",
-      "genre": 207,
-      "duration": "Pop",
+      "genre": "Pop",
+      "duration": 207,
       "artwork": "https://upload.wikimedia.org/wikipedia/en/7/76/BTS_-_Life_Goes_On_%28Vinyl%29.png",
       "url": "https://sample-music.netlify.app/Faded.mp3"
     },

@@ -2,46 +2,48 @@
   "songs": [
     {
       "id": 1,
-      "title": "Yellow",
-      "artist": "Coldplay",
-      "genre": "Pop",
-      "duration": 269,
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/9/9b/Yellow_artwork_art.JPG",
-      "url": "https://sample-music.netlify.app/death%20bed.mp3"
+      "title": "Đường tôi chở em về",
+      "artist": "Buitruonglinh",
+      "genre": "Ballad",
+      "duration": 266,
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1637638501/Data/Song/DuongToi/DuongToiChoEmVe_vuvczx.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1637638522/Data/Song/DuongToi/DuongTaChoEmVe-buitruonglinh-6318765_ywot1w.mp3"
     },
     {
       "id": 2,
-      "title": "Adore You",
-      "artist": "Harry Styles",
-      "genre": "Funk, Disco, Pop rock",
-      "duration": 207,
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/9/90/Adore_You_-_Harry_Styles.png",
-      "url": "https://sample-music.netlify.app/Bad%20Liar.mp3"
+      "title": "Vô tình",
+      "artist": "Hoaprox, Xesi",
+      "genre": "R&B, Electronic",
+      "duration": 274,
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1637638465/Data/Song/VoTinh/VoTinh_l3x3wb.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1637638343/Data/Song/VoTinh/VoTinh-XesiHoaprox-5665188_khf7ds.mp3"
     },
     {
       "id": 3,
-      "title": "Life Goes On",
-      "artist": "BTS",
-      "genre": "Pop",
-      "duration": 207,
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/7/76/BTS_-_Life_Goes_On_%28Vinyl%29.png",
-      "url": "https://sample-music.netlify.app/Faded.mp3"
+      "title": "Con Dế Mèn Hát Vào Mùa Hè",
+      "artist": "Tùng",
+      "genre": "Ballad",
+      "duration": 270,
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1637639024/Data/Song/ConDeMen/ConDeMen_mivn5k.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1637639023/Data/Song/ConDeMen/ConDeMenHatVaoMuaHe-TungTrang-6217440_edmnvu.mp3"
     },
     {
       "id": 4,
-      "title": "This Town",
-      "artist": "Niall Horan",
-      "genre": "Folk",
-      "duration": 232,
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/0/04/Niall_Horan_-_This_Town_single_artwork.png"
+      "title": "Sài Gòn Đau Lòng Quá",
+      "artist": "Hứa Kim Tuyền",
+      "genre": "Ballad",
+      "duration": 308,
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1637638075/Data/Song/SaiGonDauLong/SaiGonDauLongQua_dp5w60.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1637638112/Data/Song/SaiGonDauLong/SaiGonDauLongQua-HuaKimTuyenHoangDuyen-6992977_sfwas5.mp3"
     },
     {
       "id": 5,
-      "title": "Pillowtalk",
-      "artist": "ZAYN",
-      "genre": "R&B, Electronic",
-      "duration": 203,
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/7/70/Zayn_Malik_-_Pillowtalk_%28Official_Single_artwork%29.png"
+      "title": "Lời nói dối chân thật",
+      "artist": "JustaTee, Kimmese",
+      "genre": "R&B, Pop",
+      "duration": 245,
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1637639421/Data/Song/LoiNoiDoiChanThat/LoiNoiDoiChanThat_aq7lod.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1637639023/Data/Song/ConDeMen/ConDeMenHatVaoMuaHe-TungTrang-6217440_edmnvu.mp3"
     },
     {
       "id": 6,
@@ -49,7 +51,7 @@
       "artist": "Justin Bieber",
       "genre": "Pop",
       "duration": 233,
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/0/0b/JustinBieberLoveYourself.png"
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1636844849/Image/Song/JustinBieberLoveYourself_gylgvl.png"
     },
     {
       "id": 7,
@@ -57,7 +59,7 @@
       "artist": "Childish Gambino",
       "genre": "Hip Hop",
       "duration": 225,
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/6/62/This_Is_America_%28single_artwork%29_2018.jpg"
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1636845211/Image/Song/PolaroidJonasBlue_oq433d.jpg"
     },
     {
       "id": 8,
@@ -73,7 +75,7 @@
       "artist": "The Chainsmokers",
       "genre": "Pop",
       "duration": 194,
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/f/f7/All_We_Know_%28featuring_Phoebe_Ryan%29_%28Official_Single_artwork%29_by_The_Chainsmokers.png"
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1636845214/Image/Song/All_We_Know__featuring_Phoebe_Ryan___Official_Single_Cover__by_The_Chainsmokers_jcndqy.png"
     },
     {
       "id": 10,
@@ -81,7 +83,7 @@
       "artist": "Lana Del Rey",
       "genre": "Folk, Rock, Pop",
       "duration": 576,
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/a/aa/VeniceBitch.jpg"
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1636845210/Image/Song/VeniceBitch_zv0fx8.jpg"
     }
   ]
 }

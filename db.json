@@ -1,7 +1,6 @@
 {
   "songs": [
     {
-      "id": 1,
       "title": "Đường tôi chở em về",
       "artist": "Buitruonglinh",
       "genre": "Ballad",
@@ -10,7 +9,6 @@
       "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1637638522/Data/Song/DuongToi/DuongTaChoEmVe-buitruonglinh-6318765_ywot1w.mp3"
     },
     {
-      "id": 2,
       "title": "Vô tình",
       "artist": "Hoaprox, Xesi",
       "genre": "R&B, Electronic",
@@ -19,7 +17,6 @@
       "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1637638343/Data/Song/VoTinh/VoTinh-XesiHoaprox-5665188_khf7ds.mp3"
     },
     {
-      "id": 3,
       "title": "Con Dế Mèn Hát Vào Mùa Hè",
       "artist": "Tùng",
       "genre": "Ballad",
@@ -28,7 +25,6 @@
       "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1637639023/Data/Song/ConDeMen/ConDeMenHatVaoMuaHe-TungTrang-6217440_edmnvu.mp3"
     },
     {
-      "id": 4,
       "title": "Sài Gòn Đau Lòng Quá",
       "artist": "Hứa Kim Tuyền",
       "genre": "Ballad",
@@ -37,7 +33,6 @@
       "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1637638112/Data/Song/SaiGonDauLong/SaiGonDauLongQua-HuaKimTuyenHoangDuyen-6992977_sfwas5.mp3"
     },
     {
-      "id": 5,
       "title": "Lời nói dối chân thật",
       "artist": "JustaTee, Kimmese",
       "genre": "R&B, Pop",
@@ -46,44 +41,148 @@
       "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1637639023/Data/Song/ConDeMen/ConDeMenHatVaoMuaHe-TungTrang-6217440_edmnvu.mp3"
     },
     {
-      "id": 6,
-      "title": "Love Yourself",
-      "artist": "Justin Bieber",
-      "genre": "Pop",
-      "duration": 233,
-      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1636844849/Image/Song/JustinBieberLoveYourself_gylgvl.png"
+      "title": "Chờ Ai",
+      "artists": "cam, QQQ",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638458419/Data/Song/ChoAi/artworks-000091698094-z1e0xg-t500x500_vkt6pn.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638458420/Data/Song/ChoAi/y2meta.com_-_cam_-_ch%E1%BB%9D_ai_ft_QQQ_64_kbps_fnr24z.mp3",
+      "duration": 248,
+      "genres": "Pop, Ballad",
+      "description": "N/A"
     },
     {
-      "id": 7,
-      "title": "This is America",
-      "artist": "Childish Gambino",
-      "genre": "Hip Hop",
-      "duration": 225,
-      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1636845211/Image/Song/PolaroidJonasBlue_oq433d.jpg"
+      "title": "Chuyện đời",
+      "artists": "JGkiD",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638458856/Data/Song/ChuyenDoi/c046388228b2eae8c5538e165c14b875_1482489441_b1gag6.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638458860/Data/Song/ChuyenDoi/y2meta.com_-_Lyrics_Chuy%E1%BB%87n_%C4%90%E1%BB%9Di_-_JGkiD_64_kbps_jaowzo.mp3",
+      "duration": 243,
+      "genres": "Pop, Hip Hop",
+      "description": "N/A"
     },
     {
-      "id": 8,
-      "title": "Polaroid",
-      "artist": "Jonas Blue, Liam Payne, Lennon Stella",
-      "genre": "Pop",
-      "duration": 193,
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/1/1d/PolaroidJonasBlue.jpg"
+      "title": "Closer",
+      "artists": "The Chainsmokers",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638456985/Data/Song/Closer/1507109116689_640_wxdo92.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638456987/Data/Song/Closer/y2meta.com_-_The_Chainsmokers_-_Closer_Lyrics_ft._Halsey_64_kbps_wzs4dm.mp3",
+      "duration": 246,
+      "genres": "Pop, Electronic",
+      "description": "N/A"
     },
     {
-      "id": 9,
-      "title": "All We Know",
-      "artist": "The Chainsmokers",
-      "genre": "Pop",
-      "duration": 194,
-      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1636845214/Image/Song/All_We_Know__featuring_Phoebe_Ryan___Official_Single_Cover__by_The_Chainsmokers_jcndqy.png"
+      "title": "Con chim trên cành hát về tình yêu",
+      "artists": "Tùng",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638459759/Data/Song/ConChimTrenCanhHatVeTinhYeu/580bdf64e109df3d0691ded8bd25e841.1000x1000x1_c8jufp.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638459761/Data/Song/ConChimTrenCanhHatVeTinhYeu/y2meta.com_-_Con_chim_tr%C3%AAn_c%C3%A0nh_h%C3%A1t_v%E1%BB%81_t%C3%ACnh_y%C3%AAu_T%C3%B9ng__lyrics__64_kbps_n8dsfs.mp3",
+      "duration": 429,
+      "genres": "Pop, Ballad",
+      "description": "N/A"
     },
     {
-      "id": 10,
-      "title": "Venice Bitch",
-      "artist": "Lana Del Rey",
-      "genre": "Folk, Rock, Pop",
-      "duration": 576,
-      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1636845210/Image/Song/VeniceBitch_zv0fx8.jpg"
+      "title": "Con mèo béo",
+      "artists": "Thành Đồng",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638456364/Data/Song/ConMeoBeo/ab67616d0000b27337f5bf40d4b194d20472c9a5_bdozys.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638456367/Data/Song/ConMeoBeo/y2meta.com_-_Con_M%C3%A8o_B%C3%A9o_Lyric_Video___R.list___TRONG_IM_%E1%BB%9E_L%E1%BA%B6NG_128_kbps_zed2sx.mp3",
+      "duration": 148,
+      "genres": "Folk, Ballad",
+      "description": "N/A"
+    },
+    {
+      "title": "Counting Stars",
+      "artists": "OneRepublic",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638457374/Data/Song/CountingStars/OneRepublic_Counting_Stars_cover_dgwglu.png",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638457377/Data/Song/CountingStars/y2meta.com_-_OneRepublic_-_Counting_Stars_Lyrics_64_kbps_hpubud.mp3",
+      "duration": 322,
+      "genres": "Pop",
+      "description": "N/A"
+    },
+    {
+      "title": "Dặn dò",
+      "artists": "SWEEPY",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638458593/Data/Song/DanDo/artworks-000355414596-eaoexy-t500x500_gsqrgr.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638458594/Data/Song/DanDo/y2meta.com_-_SWEEPY_-_D%E1%BA%B7n_D%C3%B2_original._64_kbps_z6koyp.mp3",
+      "duration": 247,
+      "genres": "Pop, Ballad",
+      "description": "N/A"
+    },
+    {
+      "title": "Em dạo này",
+      "artists": "Ngọt",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638456540/Data/Song/EmDaoNay/fd29480a6ae350d4d8de51c066356761.640x640x1_nl0hxt.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638456543/Data/Song/EmDaoNay/y2meta.com_-_Ng%E1%BB%8Dt_-_Em_d%E1%BA%A1o_n%C3%A0y_64_kbps_r8sbpg.mp3",
+      "duration": 252,
+      "genres": "Rock, Pop",
+      "description": "N/A"
+    },
+    {
+      "title": "Em đừng khóc",
+      "artists": "Chillies",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638456187/Data/Song/EmDungKhoc/EmDungKhoc_zjslld.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638456189/Data/Song/EmDungKhoc/y2meta.com_-_Em_%C4%90%E1%BB%ABng_Kh%C3%B3c_-_Chillies_iamphu._Lyrics_128_kbps_vavlsn.mp3",
+      "duration": 215,
+      "genres": "Rock",
+      "description": "N/A"
+    },
+    {
+      "title": "Kẻ thù",
+      "artists": "Ngọt",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638459170/Data/Song/KeThu/ab67616d0000b2732941e5c1d7222cd392f09c47_bnodzx.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638459174/Data/Song/KeThu/y2meta.com_-_Ng%E1%BB%8Dt_-_K%E1%BA%BB_th%C3%B9_64_kbps_qxonwq.mp3",
+      "duration": 234,
+      "genres": "Rock",
+      "description": "N/A"
+    },
+    {
+      "title": "Lần cuối",
+      "artists": "Ngọt",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638459094/Data/Song/LanCuoi/ab67616d0000b273c98af859e9b24d3a6c1c72bb_bxgnyz.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638459095/Data/Song/LanCuoi/y2meta.com_-_L%E1%BA%A6N_CU%E1%BB%90I_%C4%91i_b%C3%AAn_em_x%C3%B3t_xa_ng%C6%B0%E1%BB%9Di_%C6%A1i_64_kbps_kgddds.mp3",
+      "duration": 221,
+      "genres": "Pop, Ballad",
+      "description": "N/A"
+    },
+    {
+      "title": "Let Her Go",
+      "artists": "Passenger",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638457128/Data/Song/LetHerGo/1518073035542_640_pqqwc9.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638457131/Data/Song/LetHerGo/y2meta.com_-_Passenger_-_Let_Her_Go_Lyrics_64_kbps_aezsoh.mp3",
+      "duration": 313,
+      "genres": "Pop, Ballad",
+      "description": "N/A"
+    },
+    {
+      "title": "Mascara",
+      "artists": "Chillies",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638456793/Data/Song/Mascara/1577268566289_640_offtcb.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638456795/Data/Song/Mascara/y2meta.com_-_Mascara_-_Chillies_x_BLAZE_OFFICIAL_MUSIC_VIDEO_64_kbps_gcysct.mp3",
+      "duration": 300,
+      "genres": "Pop, Ballad",
+      "description": "N/A"
+    },
+    {
+      "title": "Ngày hôm qua đã",
+      "artists": "Xanh 8+1, Trang",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638459658/Data/Song/NgayHomQuaDa/maxresdefault_fyidx7.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638459663/Data/Song/NgayHomQuaDa/y2meta.com_-_Official_Ng%C3%A0y_h%C3%B4m_qua_%C4%91%C3%A3_-_Xanh_8_1_v%C3%A0_TRANG_64_kbps_usjikz.mp3",
+      "duration": 286,
+      "genres": "Pop, Ballad",
+      "description": "N/A"
+    },
+    {
+      "title": "Tầng thượng 102",
+      "artists": "Cá Hồi Hoang",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638459364/Data/Song/TangThuong102/ab67616d0000b273e50594eb6a3b518dcb78bf59_feqofu.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638459368/Data/Song/TangThuong102/y2meta.com_-_C%C3%A1_H%E1%BB%93i_Hoang_-_T%E1%BA%A7ng_Th%C6%B0%E1%BB%A3ng_102_64_kbps_yasyra.mp3",
+      "duration": 237,
+      "genres": "Pop, Rock",
+      "description": "N/A"
+    },
+    {
+      "title": "Phố không em",
+      "artists": "Thái Đinh",
+      "artwork": "https://res.cloudinary.com/dwc4kzyds/image/upload/v1638456675/Data/Song/PhoKhongEm/1552622453522_640_jsgqil.jpg",
+      "url": "https://res.cloudinary.com/dwc4kzyds/video/upload/v1638456677/Data/Song/PhoKhongEm/y2meta.com_-_Ph%E1%BB%91_Kh%C3%B4ng_Em___Thai_Dinh___Official_Audio___2016_64_kbps_hdizti.mp3",
+      "duration": 286,
+      "genres": "Ballad",
+      "description": "N/A"
     }
   ]
 }
